@@ -1,4 +1,4 @@
-#     Sobre mim:
+#    📖 Sobre mim:
 
 - 👋 Nome: Anderson Cleiton
 - 👀 Idade: 20 anos
