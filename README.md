@@ -7,7 +7,8 @@
 - 📫 Pergunte-me sobre Java
 - 🗺️ Salvador, BA - Brasil
 -  ⚡ Comunicativo / Extrovertido
-![Java Logo](https://www.cleanpng.com/png-logo-java-development-kit-portable-network-graphic-7247346/preview.html)
+![Java Logo](https://png2.cleanpng.com/sh/e04358f5cf6849b687fb5fcae1d11368/L0KzQYq3VsI0N6dviJH0aYP2gLBuTfxwb5CygtNBYT3ndcfsjP9xdZZzjJ90
+
 
 ## Contato
 
