@@ -3,11 +3,10 @@
 - 👋 Nome: Anderson Cleiton
 - 👀 Idade: 20 anos
 - 🔭 Ciência da Computação 3° Semestre
-- 💻 Desenvolverdor Back-End Java
+- 💻 Desenvolverdor Back-End Java                                                          ![Alt Text](https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif)
 - 📫 Pergunte-me sobre Java
 - 🗺️ Salvador, BA - Brasil
 - ⚡ Comunicativo / Extrovertido
-![Java Logo GIF](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)
 
 ## Contato
 
