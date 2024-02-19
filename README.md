@@ -7,7 +7,7 @@
 - 📫 Pergunte-me sobre Java
 - 🗺️ Salvador, BA - Brasil
 - ⚡ Comunicativo / Extrovertido
-![Programação GIF]([https://example.com/seu-gif-de-programacao.gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fturmaprogramacaomatutino.blogspot.com%2F2016%2F04%2Fjava-uma-linguagem-de-programacao.html&psig=AOvVaw1i_FWoeR6B3t_epcJPul2b&ust=1708440500693000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjjkfvSt4QDFQAAAAAdAAAAABAE))
+![Programação GIF](http://be-bright.click/java-logo-gif.htmlel)
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/andersoncleiton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
