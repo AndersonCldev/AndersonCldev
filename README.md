@@ -7,14 +7,9 @@
 - 📫 Pergunte-me sobre Java
 - 🗺️ Salvador, BA - Brasil
 -  ⚡ Comunicativo / Extrovertido
-<img src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg" width="60">
-
-
-
-
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/andersoncleiton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-<img src="https://www.liblogo.com/img-logo/li452l09c-linkedin-logo-linkedin-free-social-media-icons.png" width="60"> LinkedIn: https://www.linkedin.com/in/andersoncleiton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## Contribuições e Estatísticas
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AndersonCldev&show_icons=true&theme=radical)
