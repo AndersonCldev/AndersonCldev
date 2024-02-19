@@ -7,7 +7,8 @@
 - 📫 Pergunte-me sobre Java
 - 🗺️ Salvador, BA - Brasil
 -  ⚡ Comunicativo / Extrovertido
-<img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="60">
+![Java Logo](https://www.cleanpng.com/png-logo-java-development-kit-portable-network-graphic-7247346/preview.html)
+
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/andersoncleiton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
