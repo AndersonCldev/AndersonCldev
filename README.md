@@ -7,7 +7,8 @@
 - 📫 Pergunte-me sobre Java
 - 🗺️ Salvador, BA - Brasil
 - ⚡ Comunicativo / Extrovertido
-![Programação GIF]([http://be-bright.click/java-logo-gif.htmlel](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif))
+![Java Logo GIF](https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif)
+
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/andersoncleiton?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
